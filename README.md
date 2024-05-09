@@ -12,14 +12,20 @@ Export to GitHub Gist: Users can export project summaries as Gists on GitHub, in
 # Technologies Used
 
 Frontend: React, react-beautiful-dnd, axios
+
 Backend: Node.js, Express.js, MongoDB
+
 External APIs: GitHub API for Gists
+
 Others: Joi for validation, Mongoose for MongoDB object modeling
+
 
 # Installation
 
 Clone the repository: git clone https://github.com/your-username/project-name.git
+
 Navigate to the project directory: cd project-name
+
 Install dependencies:
 
 Frontend: cd frontend && npm install
